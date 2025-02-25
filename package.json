@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lucid-extension-sdk": "^0.0.373"
+    "lucid-extension-sdk": "^0.0.373",
+    "lucid-package": "^0.0.106"
   }
 }
