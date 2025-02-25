@@ -1,0 +1,14 @@
+{
+  "name": "lucid-extension-sdk-webpack-for-windows",
+  "version": "0.0.1",
+  "description": "Testing the Lucid Extension SDK's processes on Windows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lucid-extension-sdk": "^0.0.373"
+  }
+}
